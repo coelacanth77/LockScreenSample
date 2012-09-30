@@ -1,0 +1,16 @@
+C:\Users\Makoto\Documents\Visual Studio 2012\Projects\LockScreenSample\SampleTask\bin\Debug\SampleTask.winmd
+C:\Users\Makoto\Documents\Visual Studio 2012\Projects\LockScreenSample\SampleTask\bin\Debug\SampleTask.pdb
+C:\Users\Makoto\Documents\Visual Studio 2012\Projects\LockScreenSample\SampleTask\bin\Debug\SampleTask.pri
+C:\Users\Makoto\Documents\Visual Studio 2012\Projects\LockScreenSample\SampleTask\obj\Debug\SampleTask.winmd
+C:\Users\Makoto\Documents\Visual Studio 2012\Projects\LockScreenSample\SampleTask\obj\Debug\SampleTask.pdb
+C:\Users\Makoto\Documents\Visual Studio 2012\Projects\LockScreenSample\SampleTask\obj\Debug\SampleTask.winmdobj
+C:\Users\Makoto\Documents\Visual Studio 2012\Projects\LockScreenSample\SampleTask\obj\Debug\SampleTask.compile.pdb
+C:\Users\Makoto\Documents\Visual Studio 2012\Projects\LockScreenSample\SampleTask\obj\Debug\priconfig.xml.intermediate
+C:\Users\Makoto\Documents\Visual Studio 2012\Projects\LockScreenSample\SampleTask\obj\Debug\layout.resfiles.intermediate
+C:\Users\Makoto\Documents\Visual Studio 2012\Projects\LockScreenSample\SampleTask\obj\Debug\resources.resfiles.intermediate
+C:\Users\Makoto\Documents\Visual Studio 2012\Projects\LockScreenSample\SampleTask\obj\Debug\pri.resfiles.intermediate
+C:\Users\Makoto\Documents\Visual Studio 2012\Projects\LockScreenSample\SampleTask\obj\Debug\priconfig.xml
+C:\Users\Makoto\Documents\Visual Studio 2012\Projects\LockScreenSample\SampleTask\obj\Debug\layout.resfiles
+C:\Users\Makoto\Documents\Visual Studio 2012\Projects\LockScreenSample\SampleTask\obj\Debug\resources.resfiles
+C:\Users\Makoto\Documents\Visual Studio 2012\Projects\LockScreenSample\SampleTask\obj\Debug\pri.resfiles
+C:\Users\Makoto\Documents\Visual Studio 2012\Projects\LockScreenSample\SampleTask\obj\Debug\LanguageQualifiers.txt

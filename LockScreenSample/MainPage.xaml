@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="LockScreenSample.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:LockScreenSample"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#FF1259FB">
+        <TextBlock HorizontalAlignment="Left" Margin="70,78,0,0" TextWrapping="Wrap" Text="ロックスクリーンサンプル" VerticalAlignment="Top" FontFamily="Meiryo UI" FontSize="48" Width="650"/>
+        <Button x:Name="addBadgeButton" Content="バッジの追加" HorizontalAlignment="Left" Margin="96,201,0,0" VerticalAlignment="Top" Width="143" Click="addBadgeButton_Click"/>
+        <Button x:Name="clearBadgeButton" Content="バッジの削除" HorizontalAlignment="Left" Margin="96,267,0,0" VerticalAlignment="Top" Width="143" Click="clearBadgeButton_Click"/>
+        <Button x:Name="addMessageButton" Content="メッセージの追加" HorizontalAlignment="Left" Margin="306,201,0,0" VerticalAlignment="Top" Width="143" Click="addMessageButton_Click"/>
+        <Button x:Name="clearMessageButton" Content="メッセージの削除" HorizontalAlignment="Left" Margin="306,267,0,0" VerticalAlignment="Top" Width="143" Click="clearMessageButton_Click"/>
+        <Button x:Name="addTimerTrigger" Content="おまけ(タイマートリガーの追加)" HorizontalAlignment="Left" Margin="552,201,0,0" VerticalAlignment="Top" Width="256" Click="addTimerTrigger_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="96,379,0,0" TextWrapping="Wrap" Text="メッセージの追加は管理ページより設定を変えてください" VerticalAlignment="Top" Height="37" Width="378" FontSize="17.333"/>
+
+    </Grid>
+</Page>
